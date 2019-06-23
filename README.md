@@ -1,4 +1,4 @@
-# Extractive Text Summarization with Natural Language Processing
+# Unsupervised Graph-Based Ranking Model for Tech Talk Summarization
 
 <p align="center">
   <img src="https://i.imgur.com/KdBhz4c.png" alt="sharead"></img>
