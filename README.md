@@ -1,8 +1,6 @@
 # Unsupervised Graph-Based Ranking Model for Tech Talk Summarization
 
-<p align="center">
-  <img src="https://i.imgur.com/KdBhz4c.png" alt="sharead"></img>
-</p>
+<img src="https://i.imgur.com/KdBhz4c.png" width="425"/> <img src="https://i.imgur.com/6rYOPA2.jpeg" width="425"/>
 
 ## Introduction
 Staying relevant in the ever changing technology landscape can be a challenge. At work, we are expected to keep abreast of new computer technologies, web design feels like a constant game of catch up and quitting the race for only a few months months will result in your skill set becoming obsolete.
