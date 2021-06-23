@@ -1,6 +1,12 @@
 # Unsupervised Graph-Based Ranking Model for Tech Talk Summarization
 
-<img src="https://i.imgur.com/KdBhz4c.png" width="425"/> <img src="https://i.imgur.com/6rYOPA2.jpeg" width="425"/>
+Predicting Most Important Passages in YouTube Tech Talks
+
+## Abstract
+Word Embeddings (WE) have recently imposed themselves as a standard for representing word meaning in NLP. In this work, we propose the unsupervised application of graph-based ranking models to video speech captions, building a graph that interconnects words represented by GloVe embeddings [Glove: Global vectors for word representation (2014)](https://nlp.stanford.edu/projects/glove/). For a sentence 
+V_i, the weighted rank is defined as:
+
+<p align="center"><img alt="latex" src="https://i.imgur.com/MBXb9Ff.jpeg" width="512px"></p>
 
 ## Introduction
 Staying relevant in the ever changing technology landscape can be a challenge. At work, we are expected to keep abreast of new computer technologies, web design feels like a constant game of catch up and quitting the race for only a few months months will result in your skill set becoming obsolete.
